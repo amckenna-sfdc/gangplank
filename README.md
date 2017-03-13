@@ -4,4 +4,4 @@ Features:
 None
 
 Future features:
-lots of cool shit
+- Customizable onboarding workflows
